@@ -91,7 +91,7 @@ SELECT * FROM northwind.orders;
 
 Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a monitoria.
 
-Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) sempre que precisar!
+Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog -Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
 
 ---
 
