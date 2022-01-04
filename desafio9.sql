@@ -1,0 +1,1 @@
+SELECT notes FROM northwind.purchase_oderds WHERE notes IS NOT NULL;
